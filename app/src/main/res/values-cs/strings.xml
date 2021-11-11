@@ -1,0 +1,251 @@
+<resources> <!-- CZECH - cs-->
+    <!-- Main -->
+    <string name="app_name">YouTubeři</string>
+    <string name="quiz">Kvíz</string>
+    <string name="catchphrases">Hlášky</string>
+    <string name="info">Zajímavosti</string>
+    <string name="settings">Nastavení</string>
+    <string name="donateblock">Odkaz na PayPal najdete na našich webových stránkách</string>
+
+    <!-- Dialog layout -->
+    <string name="logo">Logo</string>
+    <string name="application_development">Vývoj mobilních aplikací</string>
+    <string name="tetxt_about">O nás</string>
+    <string name="text_contact">Kontaktujte nás</string>
+    <string name="text_bug">Nahlásit chybu</string>
+    <string name="text_share">Sdílet</string>
+    <string name="text_apps">Více aplikací</string>
+    <string name="text_donate">Podpořte nás</string>
+    <string name="text_privacy">Zásady ochrany osobních údajů</string>
+    <string name="text_terms">Obchodní podmínky</string>
+    <string name="text_settings">Právní informace</string>
+
+    <!-- Share function -->
+    <string name="share_mail">Stáhni si tuhle skvělou aplikaci ;)!</string>
+    <string name="email_text">Ahoj stáhni si YouTubeři od PH studia!</string>
+    <string name="select_email">Vyberte email</string>
+
+    <!-- onBackPressed function -->
+    <string name="Exit_app">Ukončit aplikaci</string>
+    <string name="close_app">Opravdu chcete ukončit tuto aplikaci?</string>
+    <string name="Yes">Ano</string>
+    <string name="No">Ne</string>
+
+    <!-- Quiz layout -->
+    <string name="buy">Odemknout úroveň</string>
+    <string name="level_1">Úroveň 1</string>
+    <string name="level_2">Úroveň 2</string>
+    <string name="level_2_buy">Opravdu chcete koupit za 10 peněz?</string>
+    <string name="level_3">Úroveň 3</string>
+    <string name="level_3_buy">Opravdu chcete koupit za 25 peněz?</string>
+    <string name="level_4">Úroveň 4</string>
+    <string name="level_4_buy">Opravdu chcete koupit za 50 peněz?</string>
+    <string name="level_5">Úroveň 5</string>
+    <string name="level_5_buy">Opravdu chcete koupit za 70 peněz?</string>
+
+    <!-- Quiz level 1 -->
+    <string name="guess">Uhádni YouTubera</string>
+    <string name="submit">Odpovědět</string>
+    <string name="answered">Již hlasováno!</string>
+    <string name="finish">Dokončit</string>
+    <string name="next">Dále</string>
+    <string name="of">z</string>
+    <string name="score">Počet bodů </string>
+    <string name="result">Výsledek</string>
+    <string name="try_again">Zkusit to znovu</string>
+    <string name="doublecoins">* Dvojnásobek mincí za reklamu *</string>
+    <string name="back">Zpět</string>
+    <string name="no_money">Nemáte peníze!</string>
+    <string name="end_quiz">Opravdu chcete ukončit kvíz?</string>
+    <string name="Exit_quiz">Ukončit kvíz</string>
+
+    <!-- Info ViralBrothers -->
+    <string name="tv_info_viralbrothers1">ViralBrothers jsou dva kamarádi, kteří tvoří virální videa na sociálních sítích</string>
+    <string name="tv_info_viralbrothers2">Vlastními jmény Petr Melicherík (Erik Meldik) a Jiří Michna (Čeněk Stýblo)</string>
+    <string name="tv_info_viralbrothers3">Erik Meldik se narodil 27. března 1986 v Jeseníku. Čeněk Stýblo se narodil 15. října 1981 též v Jeseníku</string>
+    <string name="tv_info_viralbrothers4">Erik Meldik studoval matematiku aplikovanou v ekonomii. Čeněk Stýblo studoval anglický jazyk</string>
+    <string name="tv_info_viralbrothers5">Kanál ViralBrothers byl založen 15. září 2011</string>
+    <string name="tv_info_viralbrothers6">Dřívější tvorbu umísťovali na server Stream.cz. Později spolu založili kanál SketchBrothers, kde natáčeli například populární seriál DESATERO</string>
+    <string name="tv_info_viralbrothers7">Erik Meldik má dvě děti. Staršího syna Anakina (*25.5.2016) a mladší dceru Maliu (*27.2.2019)</string>
+    <string name="tv_info_viralbrothers8">Oba se dříve přiznali, že začali natáčet videa kvůli šanci zbohatnout a zviditělnit se</string>
+    <string name="tv_info_viralbrothers9">Erik Meldik má na YouTube další dva kanály. První je určení na daily vlogy (ViralBrother Erik - 420 tis. odběratelů) a druhý je herní (ViralErik - 140 tis. odběratelů). Čeněk Stýblo má také svůj vlastní kanál (ViralBrother Cenek - 430 tis. odběratelů)</string>
+    <string name="tv_info_viralbrothers10">Jejich TikTokový účet (viralbrothers) má více než 2,5 milionů sledujích</string>
+
+    <!-- Info MenT -->
+    <string name="tv_info_ment1">První český YouTuber, který přesáhl hranici jednoho milionu odběratelů</string>
+    <string name="tv_info_ment2">Vlastním jménem Jan Macák</string>
+    <string name="tv_info_ment3">Narodil se 28. července 1997 v Pardubicích</string>
+    <string name="tv_info_ment4">Vystudoval střední školu s maturitou se zaměřením na public relations, marketing a média</string>
+    <string name="tv_info_ment5">Své první video publikoval na YouTube ve svých 12 letech v roce 2009</string>
+    <string name="tv_info_ment6">Jeho video tvorba se zaměřuje na let\'s playe, vlogy a auta</string>
+    <string name="tv_info_ment7">V roce 2021 jej časopis Forbes umístil na třetí místo v žebříčku 10 nejlépe placených YouTuberů Česka s odhadovaným ročním příjmem 10,5 mil. korun</string>
+    <string name="tv_info_ment8">Jeho nejoblíbenější příchuť zmrzliny je vanilková</string>
+    <string name="tv_info_ment9">V roce 2012 si založil druhý kanál jménem MenTlive, momentálně se jmenuje MENTSGARAGE</string>
+    <string name="tv_info_ment10">MenTův Instagramový profil (ment97) má více než 830 tisíc sledujících a obsahuje více než 710 příspěvků</string>
+
+    <!-- Info GEJMR -->
+    <string name="tv_info_gejmr1">Jeden z nejslavnějších, ale také nejzáhadnějších českých YouTuberů</string>
+    <string name="tv_info_gejmr2">Nikdy nezveřejnil své vlastní jméno ani fotku</string>
+    <string name="tv_info_gejmr3">Svůj YouTubový kanál GEJMR založil 27. listopadu 2011</string>
+    <string name="tv_info_gejmr4">Milion odběratelů získal 22. února 2018</string>
+    <string name="tv_info_gejmr5">V České republice je nejslavnější Minecraftový YouTuber</string>
+    <string name="tv_info_gejmr6">Má vlastní Minecraft server, který se jmenuje Survival Games. Dále provozuje YouTuberský server MAJNR</string>
+    <string name="tv_info_gejmr7">Gejmr je vášnivý sběratel poštovních známek</string>
+    <string name="tv_info_gejmr8">Forbes ho zařadil na 10. místo v žebříčku nejvlivnějších čechů za rok 2017</string>
+    <string name="tv_info_gejmr9">Vlastní ještě další dva kanály - GEJMROVEC (297 tis. odběratelů) a GEJMR Vlogger (98 tis. odběratelů)</string>
+    <string name="tv_info_gejmr10">Gejmrův Instagramový profil (gejmr) má více než 606 tisíc sledujících a obsahuje více než 200 příspěvků</string>
+
+    <!-- Info PedrosGame -->
+    <string name="tv_info_pedro1">Jeho video tvorba se zaměřuje na let\'s playe, nejčastěji ze hry Minecraft, ale natáčí i vlogy</string>
+    <string name="tv_info_pedro2">Vlastním jménem Petr Hybš (Petr Florián)</string>
+    <string name="tv_info_pedro3">Vystudoval gymnázium a absolvoval vyšší odbornou školu v Plzni</string>
+    <string name="tv_info_pedro4">Před YouTubem pracoval jako fotograf</string>
+    <string name="tv_info_pedro5">Je šťastně ženatý a má dva syny a dceru</string>
+    <string name="tv_info_pedro6">Jeho hlavní koníčky jsou rybaření, stanování v přírodě nebo hudba</string>
+    <string name="tv_info_pedro7">Svůj kanál PedrosGame založil 5. ledna 2012</string>
+    <string name="tv_info_pedro8">Vlastní ještě další dva kanály - Petrův svět (66 tis. odběratelů) a Pedro (49 tis. odběratelů)</string>
+    <string name="tv_info_pedro9">Dříve vlastil ještě jeden kanál, ale ten předal svému fanouškovi - Adam’s Life (132 tis. odběratelů)</string>
+    <string name="tv_info_pedro10">Pedrův Instagramový profil (pedrosgame) má více než 516 tisíc sledujících a obsahuje více než 894 příspěvků</string>
+
+    <!-- Info Stejk -->
+    <string name="tv_info_stejk1">Jeho tvorba se zaměřuje na Perly ze světa, fakty o filmech a občas si rozbalí zajímavé produkty z Wishe</string>
+    <string name="tv_info_stejk2">Vlastním jménem Jakub Steklý</string>
+    <string name="tv_info_stejk3">Vystudoval střední školu Obchodní akademii, poté nastoupil na Univerzitu Pardubice, kterou nedodělal</string>
+    <string name="tv_info_stejk4">Měl vlastní pořad na televizní stanici Óčko – Dotykáč, jenž se týkal mobilních aplikací</string>
+    <string name="tv_info_stejk5">Od malička chtěl být herec nebo moderátor, na základní škole vystupoval ve školním divadle</string>
+    <string name="tv_info_stejk6">V roce 2015 ho Forbes zařadil na 14. příčku v seznamu 77 nejvlivnějších Čechů na sociálních sítích</string>
+    <string name="tv_info_stejk7">Jeho koníčkem je překonávání českých i mezinárodních Guinnessových rekordů. Drží český rekord v počtu týdenních vlogů, které začal natáčet 13. května 2016, kde ukazuje věci z osobního života, informace o budoucích plánech a další podobné věci</string>
+    <string name="tv_info_stejk8">Vlastní ještě další dva kanály - Stejk play (102 tis. odběratelů) a Tady hraje Stejk (83 tis. odběratelů)</string>
+    <string name="tv_info_stejk9">Koupil si modrý Mercedes-Benz CLA 2021</string>
+    <string name="tv_info_stejk10">Stejkův Instagramový profil (stejkstudio) má více než 540 tisíc sledujících a obsahuje více než 3710 příspěvků</string>
+
+    <!-- Info Jirka Král -->
+    <string name="tv_info_jirkakral1">Bývalý český YouTuber a někdejší účastník reality show televize Nova - Farma (2012)</string>
+    <string name="tv_info_jirkakral2">Vystudoval střední školu v Brně, v roce 2009 se odstěhoval do Prahy, kde pracoval v Tiscali Media jako administrátor reklamního prostoru</string>
+    <string name="tv_info_jirkakral3">Jirka Král 2.září 2018 ukončil svoji YouTube kariéru posledním videodokumentem (Byl jsem Youtuber [DOKUMENT])</string>
+    <string name="tv_info_jirkakral4">Jeho manželkou je, od 27. srpna 2020, cestovatelka a blogerka Karolína Králová (rozená Benešová), vystupující pod přezdívkou Little Kao</string>
+    <string name="tv_info_jirkakral5">Dne 11. února 2018 dosáhl hranice 1 milionu odběratelů</string>
+    <string name="tv_info_jirkakral6">V roce 2016 ho časopis Forbes umístil na první místo v žebříčku 10 nejvlivnějších čechů za rok 2016</string>
+    <string name="tv_info_jirkakral7">Díky své popularitě má zajímavé spolupráce např. s McDonald\'s, Avast a nebo Red Bull</string>
+    <string name="tv_info_jirkakral8">Ve fastfoodu McDonald\'se prodávál jeho vlastní burger (BURGER JIRKY KRÁLE)</string>
+    <string name="tv_info_jirkakral9">Měl svůj vlastní komiks, který poprvé vyšel 13. května roku 2016 s cenovkou 39 Kč. Bylo vydáno celkem 44 čísel a koncem roku 2019 byl komiks ukočen</string>
+    <string name="tv_info_jirkakral10">Jirkův Instagramový profil (jirkakral) má více než 920 tisíc sledujících a obsahuje více než 1844 příspěvků</string>
+
+    <!-- Info HouseBox -->
+    <string name="tv_info_house1">Jeho video tvorba se zaměřuje na let\'s playe, nejčastěji ze hry Roblox, ale natáčí i motovlogy</string>
+    <string name="tv_info_house2">Vlastním jménem Jakub Váňa</string>
+    <string name="tv_info_house3">Vystudoval střední podnikatelskou školu</string>
+    <string name="tv_info_house4">Svůj kanál MinecraftBox zakládal společně se svým kamarádem Jeziskem1 5. ledna 2012, ale 27. dubna 2016 ho přejmenoval na součastný název HouseBox</string>
+    <string name="tv_info_house5">V roce 2021 ho časopis Forbes umístil na desáté místo v žebříčku 10 nejlépe placených YouTuberů Česka s odhadovaným ročním příjmem 4,5 mil. korun</string>
+    <string name="tv_info_house6">Jeho oblíbená barva je červená nebo černá</string>
+    <string name="tv_info_house7">Rád cestuje, ať už na motorce nebo v letadle</string>
+    <string name="tv_info_house8">Koupil si bílou motorku Kawasaki ER 6N</string>
+    <string name="tv_info_house9">House v roce 2011 natáčel hru Battlefield na kanál Jakub Váňa na kterém měl přes 500 odběratelů</string>
+    <string name="tv_info_house10">Housův Instagramový profil (jakub.house) má více než 423 tisíc sledujících a obsahuje více než 211 příspěvků</string>
+
+    <!-- Info kovy -->
+    <string name="tv_info_kovy1">Jeho video tvorba se zaměřuje na informativní a politická videa, ale natáčí i vlogy nebo parodie</string>
+    <string name="tv_info_kovy2">Vlastním jménem Karel Kovář</string>
+    <string name="tv_info_kovy3">Narodil se v Pardubicích. V roce 2016 odmaturoval na gymnáziu a později v témže roce se přestěhoval do Prahy za studiem Fakulty sociálních věd Univerzity Karlovy v oboru marketingové komunikace a PR. Toto studium ukončil ve třetím semestru.</string>
+    <string name="tv_info_kovy4">V roce 2017 vyhrál anketu Bloger roku. V roce 2021 jej Forbes umístil na sedmé místo v žebříčku 10 nejlépe placených youtuberů Česka s odhadovaným ročním příjmem 6 mil. korun.</string>
+    <string name="tv_info_kovy5">Kovy vydal 2 knihy. První se jmenuje Ovšem, druhá se jmenuje iPohádka. V první knize přiznal že je homosexuál.</string>
+    <string name="tv_info_kovy6">V roce 2019 účinkoval v 10. řadě televizní taneční soutěže StarDance …když hvězdy tančí, kde vypadl v semifinále. Umístil se tak celkově na 4. místě. Tančil společně s Veronikou Liškovou.</string>
+    <string name="tv_info_kovy7">Kovy má v součastné době čtyři YouTubové kanály. 1. Kovy - 860 tisíc odběratelů \n2. Gameballcz - 386 tis. odběratelů \n3. Call Me Charlie - 56 tis. odběratelů \n4. Nejlepší Okamžiky - 13,6 tis. odběratelů</string>
+    <string name="tv_info_kovy8">Jeho dosud nejsledovanějším videem je parodie na píseň Despacito, která přesáhla hranici 12 milionů zhlédnutí.</string>
+    <string name="tv_info_kovy9">Kovy se velmi angažuje v oblasti politiky, ekologie, rovnoprávnosti a školství. Například v roce 2020 měl na televizní stanici ČT2 dokument Kovy řeší dějiny.</string>
+    <string name="tv_info_kovy10">Kovyho Instagramový profil (kovy_gameballcz) má více než 776 tisíc sledujících a obsahuje více než 1090 příspěvků</string>
+
+    <!-- Catchphrases MenT -->
+    <string name="tv_catchphrases_ment1">pozdrav</string>
+    <string name="tv_catchphrases_ment2">tak určitě</string>
+    <string name="tv_catchphrases_ment3">kráva blbá</string>
+    <string name="tv_catchphrases_ment4">nech mě bejt, neřvi na mě</string>
+    <string name="tv_catchphrases_ment5">to dítě se právě zeptalo jak vznikaj děti</string>
+    <string name="tv_catchphrases_ment6">já mám škitavku a jěstě kašel to si ze mě děláš srandu</string>
+    <string name="tv_catchphrases_ment7">kdo neumí neumí</string>
+    <string name="tv_catchphrases_ment8">a život je život</string>
+    <string name="tv_catchphrases_ment9">to je dokonalý OMG to chci domů</string>
+    <string name="tv_catchphrases_ment10">easy easy jak dva cheesy</string>
+    <string name="tv_catchphrases_ment11">kdo jinému jámu sám do ní sám</string>
+    <string name="tv_catchphrases_ment12">ježíš márja to není možný to není možný</string>
+    <string name="tv_catchphrases_ment13">yeeees baaabyyyy</string>
+
+    <!-- Catchphrases GEJMR -->
+    <string name="tv_catchphrases_gejmr1">dobrej pane</string>
+    <string name="tv_catchphrases_gejmr2">jo chci ten burger</string>
+    <string name="tv_catchphrases_gejmr3">nechci rušit</string>
+    <string name="tv_catchphrases_gejmr4">hoši zase jsem s vámi vypek</string>
+    <string name="tv_catchphrases_gejmr5">doprdele já jsem tady taky</string>
+    <string name="tv_catchphrases_gejmr6">chno, chno, chno</string>
+    <string name="tv_catchphrases_gejmr7">its prank aha</string>
+    <string name="tv_catchphrases_gejmr8">jako vááážně</string>
+    <string name="tv_catchphrases_gejmr9">já ti taku prijebem</string>
+    <string name="tv_catchphrases_gejmr10">ježiš ty jseš debil</string>
+    <string name="tv_catchphrases_gejmr11">nebudem hovorit po slovensky</string>
+    <string name="tv_catchphrases_gejmr12">ale neblázni zlatíčko</string>
+    <string name="tv_catchphrases_gejmr13">okay more</string>
+    <string name="tv_catchphrases_gejmr14">OMG co to je</string>
+    <string name="tv_catchphrases_gejmr15">OMG to je hustý</string>
+    <string name="tv_catchphrases_gejmr16">kámo oni si všichni budou myslet, že mi hráblo jak se teďka směju</string>
+    <string name="tv_catchphrases_gejmr17">tady se mi bude čůrat do fontánky</string>
+    <string name="tv_catchphrases_gejmr18">rage quit</string>
+    <string name="tv_catchphrases_gejmr19">tyvole on mě zabil</string>
+    <string name="tv_catchphrases_gejmr20">smích</string>
+
+    <!-- Catchphrases PedrosGame -->
+    <string name="tv_catchphrases_pedro1">oh yeeees</string>
+    <string name="tv_catchphrases_pedro2">to je trumbera fakt</string>
+    <string name="tv_catchphrases_pedro3">to si děláš srandu</string>
+    <string name="tv_catchphrases_pedro4">ty jsi takovej vocas</string>
+    <string name="tv_catchphrases_pedro5">všechny nás vojede</string>
+    <string name="tv_catchphrases_pedro6">dělej dělej pedro žer žer</string>
+    <string name="tv_catchphrases_pedro7">máme největší koule</string>
+    <string name="tv_catchphrases_pedro8">moje kouličky ne</string>
+    <string name="tv_catchphrases_pedro9">hoši tak teď jsem to tady vyndal</string>
+    <string name="tv_catchphrases_pedro10">já ho tady honím půl hodiny</string>
+    <string name="tv_catchphrases_pedro11">smích</string>
+    <string name="tv_catchphrases_pedro12">to si děláš legrace on mě zabil</string>
+    <string name="tv_catchphrases_pedro13">rage quit</string>
+
+    <!-- Catchphrases Jirka Král -->
+    <string name="tv_catchphrases_jirkakral1">pozrav</string>
+    <string name="tv_catchphrases_jirkakral2">hustě kámo</string>
+    <string name="tv_catchphrases_jirkakral3">ježiši kriste</string>
+    <string name="tv_catchphrases_jirkakral4">ty rošťáku</string>
+    <string name="tv_catchphrases_jirkakral5">ty jo já jsem docela vožralej Gejmre</string>
+    <string name="tv_catchphrases_jirkakral6">zdá se mi to nebo to auto vypadá jako skála</string>
+    <string name="tv_catchphrases_jirkakral7">a je z tebe černoušek</string>
+    <string name="tv_catchphrases_jirkakral8">co máš tady v tom batohu</string>
+    <string name="tv_catchphrases_jirkakral9">co blbneš tak to ne</string>
+    <string name="tv_catchphrases_jirkakral10">já nevidím kam mířím</string>
+    <string name="tv_catchphrases_jirkakral11">jsem se málem počůal teďka</string>
+    <string name="tv_catchphrases_jirkakral12">rage quit</string>
+    <string name="tv_catchphrases_jirkakral13">ty vole to si děláš prdel ne</string>
+
+    <!-- Catchphrases HouseBox -->
+    <string name="tv_catchphrases_house1">pozdrav</string>
+    <string name="tv_catchphrases_house2">wedre ty hajzle jeden</string>
+    <string name="tv_catchphrases_house3">dívej to si to myslíš vážně tohle to</string>
+    <string name="tv_catchphrases_house4">já ti seru na sorry</string>
+    <string name="tv_catchphrases_house5">ty už jseš unavenej to si děláš kozy</string>
+    <string name="tv_catchphrases_house6">ty vole dělej</string>
+    <string name="tv_catchphrases_house7">kámo jak jsi to udělal</string>
+    <string name="tv_catchphrases_house8">ty vole to vypadá hodně hustě</string>
+    <string name="tv_catchphrases_house9">jdi do prdele se sorry</string>
+    <string name="tv_catchphrases_house10">já na tebe seru ty vole</string>
+
+    <!-- Catchphrases Baxtrix -->
+    <string name="tv_catchphrases_bax1">ne kam se kutálíš</string>
+    <string name="tv_catchphrases_bax2">Ježiš co na mě čumíš</string>
+    <string name="tv_catchphrases_bax3">ty jseš taková čubka</string>
+    <string name="tv_catchphrases_bax4">ohh ty jseš takový hovado</string>
+    <string name="tv_catchphrases_bax5">já jsem koule, ne já jsem kužel</string>
+    <string name="tv_catchphrases_bax6">nestřílej</string>
+    <string name="tv_catchphrases_bax7">pane učiteli mám tady problém</string>
+    <string name="tv_catchphrases_bax8">jo konečně, já už na to seru lidi</string>
+    <string name="tv_catchphrases_bax9">kde je moje penta</string>
+    <string name="tv_catchphrases_bax10">holy shit kámo</string>
+    <string name="tv_catchphrases_bax11">oh můj bože tady někdo chce permaban</string>
+    <string name="tv_catchphrases_bax12">dělej vole</string>
+    <string name="tv_catchphrases_bax13">vidíte tady tuhle mrdku</string>
+</resources>

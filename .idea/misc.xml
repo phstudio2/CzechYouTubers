@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v26/size_apps.xml" value="0.2351851851851852" />
+        <entry key="app/src/main/res/drawable/bt_catchphrases.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/drawable/layout_button.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/drawable/ment.xml" value="0.20555555555555555" />
+        <entry key="app/src/main/res/drawable/size_settings.xml" value="0.2351851851851852" />
+        <entry key="app/src/main/res/drawable/tx_info.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_catchphrases.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_bax.xml" value="0.4046153846153846" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_gejmr.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_house.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_jirkakral.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_ment.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_catchphrases_pedro.xml" value="0.3744186046511628" />
+        <entry key="app/src/main/res/layout/layout_guiz_level1.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/layout/layout_info.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_info_gejmr.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/layout/layout_info_house.xml" value="0.3907766990291262" />
+        <entry key="app/src/main/res/layout/layout_info_jirkakral.xml" value="0.3907766990291262" />
+        <entry key="app/src/main/res/layout/layout_info_kovy.xml" value="0.3824074074074074" />
+        <entry key="app/src/main/res/layout/layout_info_ment.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/layout/layout_info_pedro.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/layout/layout_info_stejk.xml" value="0.38333333333333336" />
+        <entry key="app/src/main/res/layout/layout_info_viralbrothers.xml" value="0.3277777777777778" />
+        <entry key="app/src/main/res/layout/layout_quiz.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_quiz_level1.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout_settings.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3277777777777778" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

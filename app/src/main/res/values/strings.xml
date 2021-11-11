@@ -1,0 +1,286 @@
+<resources> <!-- ENGLISH - en-->
+    <!-- No translation -->
+    <string name="about" translatable="false">https://phstudio2.webnode.com/home</string>
+    <string name="contact" translatable="false">https://phstudio2.webnode.com/contact</string>
+    <string name="report" translatable="false">https://phstudio2.webnode.com/report-a-bug</string>
+    <string name="googleplay" translatable="false">https://play.google.com/store/apps/dev?id=5702159986992384861</string>
+    <string name="privacy" translatable="false">https://phstudio2.webnode.com/privacy-policy5</string>
+    <string name="terms" translatable="false">https://phstudio2.webnode.com/terms-conditions5</string>
+    <string name="rights" translatable="false">https://phstudio2.webnode.com/legal-info5</string>
+    <string name="developer_name" translatable="false">PH studio</string>
+    <string name="app_package" translatable="false">com.phstudio.youtubers</string>
+    <string name="_0_10" translatable="false">0/10</string>
+    <string name="_70" translatable="false">70</string>
+    <string name="_50" translatable="false">50</string>
+    <string name="_25" translatable="false">25</string>
+    <string name="_10" translatable="false">10</string>
+    <string name="app_version" translatable="false">1.3</string>
+
+
+    <!-- Main -->
+    <string name="app_name">YouTubers</string>
+    <string name="quiz">Quiz</string>
+    <string name="catchphrases">Catchphrases</string>
+    <string name="info">Information</string>
+    <string name="settings">Settings</string>
+    <string name="donateblock">You will find a link to PayPal on our website</string>
+
+    <!-- Dialog layout -->
+    <string name="logo">Logo</string>
+    <string name="application_development">Application development</string>
+    <string name="tetxt_about">About</string>
+    <string name="text_contact">Contact</string>
+    <string name="text_bug">Report bug</string>
+    <string name="text_share">Share</string>
+    <string name="text_apps">More apps</string>
+    <string name="text_donate">Donate</string>
+    <string name="text_privacy">Privacy Policy</string>
+    <string name="text_terms"><![CDATA[Terms & Conditions]]></string>
+    <string name="text_settings">Legal Info</string>
+
+    <!-- onBackPressed function -->
+    <string name="Exit_app">Exit app</string>
+    <string name="close_app">Do you want to close this application?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <!-- Share function -->
+    <string name="share_mail">Download this great app ;)!</string>
+    <string name="email_text">Hi download YouTubers from PH studio!</string>
+    <string name="select_email">Select email</string>
+
+
+    <!-- Info & Catchphrases layout -->
+    <string name="bax" translatable="false">Baxtrix</string>
+    <string name="viralbrothers" translatable="false">ViralBrothers</string>
+    <string name="ment" translatable="false">MenT</string>
+    <string name="gejmr" translatable="false">GEJMR</string>
+    <string name="jirka_kral" translatable="false">Jirka Král</string>
+    <string name="stejk" translatable="false">Stejk</string>
+    <string name="pedrosgame" translatable="false">PedrosGame</string>
+    <string name="house" translatable="false">HouseBox</string>
+    <string name="kovy" translatable="false">Kovy</string>
+    <string name="text_null" translatable="false">0</string>
+
+
+    <!-- Quiz layout -->
+    <string name="buy">Unlock Level</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_2_buy">Do you want to buy it for 10 coins?</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_3_buy">Do you want to buy it for 25 coins?</string>
+    <string name="level_4">Level 4</string>
+    <string name="level_4_buy">Do you want to buy it for 50 coins?</string>
+    <string name="level_5">Level 5</string>
+    <string name="level_5_buy">Do you want to buy it for 70 coins?</string>
+
+    <!-- Quiz level 1 -->
+    <string name="guess">Guess the YouTuber</string>
+    <string name="submit">SUBMIT</string>
+    <string name="answered">Already answered!</string>
+    <string name="finish">FINISH</string>
+    <string name="next">GO TO NEXT QUESTION</string>
+    <string name="of">out of</string>
+    <string name="score">Your Score is </string>
+    <string name="result">Result</string>
+    <string name="try_again">Try again</string>
+    <string name="doublecoins">* Double coins for advertising *</string>
+    <string name="back">Back</string>
+    <string name="no_money">You don\'t have money!</string>
+    <string name="end_quiz">Do you want to close the quiz?</string>
+    <string name="Exit_quiz">Exit quiz</string>
+
+    <!-- Info ViralBrothers -->
+    <string name="tv_info_viralbrothers1">ViralBrothers are two friends who create viral videos on social media</string>
+    <string name="tv_info_viralbrothers2">Their proper names are Petr Melicherík (Erik Meldik) and Jiří Michna (Čeněk Stýblo)</string>
+    <string name="tv_info_viralbrothers3">Erik Meldik was born on 27 March 1986 in Jeseník. Čeněk Stýblo was born on 15 October 1981 also in Jeseník</string>
+    <string name="tv_info_viralbrothers4">Erik Meldik studied applied mathematics in economics. Čeněk Stýblo studied English</string>
+    <string name="tv_info_viralbrothers5">The ViralBrothers channel was founded on September 15, 2011</string>
+    <string name="tv_info_viralbrothers6">Earlier work was posted on Stream.cz. Later they founded the SketchBrothers channel together, where they filmed for example the popular series DESATERO</string>
+    <string name="tv_info_viralbrothers7">Erik Meldik has two children. His older son Anakin (*25.5.2016) and younger daughter Malia (*27.2.2019)</string>
+    <string name="tv_info_viralbrothers8">Both have previously admitted that they started making videos for a chance to get rich and get famous</string>
+    <string name="tv_info_viralbrothers9">Erik Meldik has two other YouTube channels. The first is for daily vlogs (ViralBrother Erik - 420k subscribers) and the second is for gaming (ViralErik - 140k subscribers). Cenek Styblo also has his own channel (ViralBrother Cenek - 430 thousand subscribers)</string>
+    <string name="tv_info_viralbrothers10">Their TikTok account (viralbrothers) has over 2.5 million followers</string>
+
+    <!-- Info MenT -->
+    <string name="tv_info_ment1">The first Czech YouTuber to surpass one million subscribers</string>
+    <string name="tv_info_ment2">His own name is Jan Macák</string>
+    <string name="tv_info_ment3">Born on July 28, 1997 in Pardubice</string>
+    <string name="tv_info_ment4">Graduated from high school with a diploma in public relations, marketing and media</string>
+    <string name="tv_info_ment5">Published his first video on YouTube at the age of 12 in 2009</string>
+    <string name="tv_info_ment6">His video work focuses on let\'s plays, vlogs and cars</string>
+    <string name="tv_info_ment7">In 2021, Forbes magazine ranked him as the third highest paid YouTuber in the Czech Republic with an estimated annual income of CZK 10.5 million</string>
+    <string name="tv_info_ment8">His favourite ice cream flavour is vanilla</string>
+    <string name="tv_info_ment9">In 2012 he started a second channel called MenTlive, currently called MENTSGARAGE</string>
+    <string name="tv_info_ment10">MenT\'s Instagram profile (ment97) has more than 830k followers and contains more than 710 posts</string>
+
+    <!-- Info GEJMR -->
+    <string name="tv_info_gejmr1">He is one of the most famous, but also the most mysterious Czech YouTubers</string>
+    <string name="tv_info_gejmr2">He has never published his own name or photo</string>
+    <string name="tv_info_gejmr3">He started his YouTube channel GEJMR on November 27, 2011</string>
+    <string name="tv_info_gejmr4">One million subscribers gained on February 22, 2018</string>
+    <string name="tv_info_gejmr5">Czech Republic\'s most famous Minecraft YouTuber</string>
+    <string name="tv_info_gejmr6">He has his own Minecraft server called Survival Games. He also runs a YouTuber server called MAJNR</string>
+    <string name="tv_info_gejmr7">Gejmr is an avid stamp collector</string>
+    <string name="tv_info_gejmr8">Forbes ranked him 10th in the 2017 Most Influential Czechs</string>
+    <string name="tv_info_gejmr9">He owns two more channels - GEJMROVEC (297 thousand subscribers) and GEJMR Vlogger (98 thousand subscribers)</string>
+    <string name="tv_info_gejmr10">Gejmr\'s Instagram profile (gejmr) has more than 606k followers and contains more than 200 posts</string>
+
+    <!-- Info PedrosGame -->
+    <string name="tv_info_pedro1">His video work focuses on let\'s plays, mostly from the game Minecraft, but he also makes vlogs</string>
+    <string name="tv_info_pedro2">His own name is Petr Hybš (Petr Florián)</string>
+    <string name="tv_info_pedro3">He graduated from a grammar school and higher vocational school in Pilsen</string>
+    <string name="tv_info_pedro4">Before YouTube he worked as a photographer</string>
+    <string name="tv_info_pedro5">He is happily married and has two sons and a daughter</string>
+    <string name="tv_info_pedro6">His main hobbies are fishing, outdoor camping and music</string>
+    <string name="tv_info_pedro7">He founded his channel PedrosGame on 5 January 2012</string>
+    <string name="tv_info_pedro8">He owns two more channels - Petrův svět (66k subscribers) and Pedro (49k subscribers)</string>
+    <string name="tv_info_pedro9">He used to own one more channel, but he handed it over to a fan - Adam\'s Life (132k subscribers)</string>
+    <string name="tv_info_pedro10">Pedro\'s Instagram profile (pedrosgame) has over 516k followers and contains over 894 posts</string>
+
+    <!-- Info Stejk -->
+    <string name="tv_info_stejk1">His work focuses on Pearls of the World, facts about movies and occasionally unpacks interesting products from Wishe</string>
+    .
+    <string name="tv_info_stejk2">His own name is Jakub Steklý</string>
+    <string name="tv_info_stejk3">He graduated from the Business Academy High School, then entered the University of Pardubice, which he did not finish</string>
+    <string name="tv_info_stejk4">He had his own show on the TV station Óčko - Dotykáč, which was about mobile applications</string>
+    <string name="tv_info_stejk5">He wanted to be an actor or presenter from a young age, and in primary school he performed in the school theatre</string>
+    <string name="tv_info_stejk6">In 2015, Forbes ranked him 14th on a list of the 77 most influential Czechs on social media</string>
+    <string name="tv_info_stejk7">His hobby is breaking Czech and international Guinness World Records. He holds the Czech record for the number of weekly vlogs, which he started filming on 13 May 2016, showing things from his personal life, information about future plans and other such things</string>
+    <string name="tv_info_stejk8">He owns two more channels - Stejk play (102k subscribers) and Tady hraje Stejk (83k subscribers)</string>
+    <string name="tv_info_stejk9">Bought a blue Mercedes-Benz CLA 2021</string>
+    <string name="tv_info_stejk10">Stejk\'s Instagram profile (stejkstudio) has more than 540k followers and contains more than 3710 posts</string>
+
+    <!-- Info Jirka Král -->
+    <string name="tv_info_jirkakral1">Former Czech YouTuber and former participant of the reality TV show Nova - Farma (2012)</string>
+    <string name="tv_info_jirkakral2">He graduated from high school in Brno, in 2009 he moved to Prague where he worked at Tiscali Media as an ad space administrator</string>
+    <string name="tv_info_jirkakral3">Jirka Král ended his YouTube career on 2 September 2018 with his last video documentary (I was a Youtuber [DOCUMENT])</string>
+    <string name="tv_info_jirkakral4">His wife, as of August 27, 2020, is traveler and blogger Karolína Králová (née Benešová), who goes by the nickname Little Kao</string>
+    <string name="tv_info_jirkakral5">On 11 February 2018, he reached the 1 million subscriber mark</string>
+    <string name="tv_info_jirkakral6">In 2016, Forbes magazine ranked him number one on its 2016 list of the 10 most influential Czechs</string>
+    <string name="tv_info_jirkakral7">Due to his popularity, he has interesting collaborations with McDonald\'s, Avast and Red Bull</string>
+    <string name="tv_info_jirkakral8">His own burger (BURGER JIRKA KRÁLE)</string>
+    was sold at McDonald's fast food outlet.
+    <string name="tv_info_jirkakral9">He had his own comic book, which was first published on 13 May 2016 with a price tag of 39c. A total of 44 issues were published and the comic was finished at the end of 2019</string>
+    <string name="tv_info_jirkakral10">Jirka\'s Instagram profile (jirkakral) has over 920k followers and contains over 1844 posts</string>
+
+    <!-- Info HouseBox -->
+    <string name="tv_info_house1">His video work focuses on let\'s plays, mostly from the game Roblox, but he also makes motovlogs</string>
+    <string name="tv_info_house2">His own name is Jakub Váňa</string>
+    <string name="tv_info_house3">He graduated from business school</string>
+    <string name="tv_info_house4">He founded his channel MinecraftBox together with his friend Jezisek1 on 5 January 2012, but renamed it to its current name HouseBox on 27 April 2016</string>
+    <string name="tv_info_house5">In 2021, Forbes magazine ranked him as the 10th highest paid YouTuber in the Czech Republic with an estimated annual income of CZK 4.5 million</string>
+    <string name="tv_info_house6">His favourite colour is red or black</string>
+    <string name="tv_info_house7">He likes to travel, whether on a motorbike or in a plane</string>
+    <string name="tv_info_house8">He bought a white Kawasaki ER 6N</string>
+    <string name="tv_info_house9">House filmed the game Battlefield in 2011 for the Jakub Váňa channel where he had over 500 subscribers</string>
+    <string name="tv_info_house10">House\'s Instagram profile (jakub.house) has over 423k followers and contains over 211 posts</string>
+
+    <!-- Info kovy -->
+    <string name="tv_info_kovy1">His video work focuses on informative and political videos, but he also makes vlogs or parodies</string>
+    <string name="tv_info_kovy2">His own name is Karel Kovář</string>
+    <string name="tv_info_kovy3">He was born in Pardubice. He graduated from high school in 2016 and later that year moved to Prague to study at the Faculty of Social Sciences of Charles University in the field of marketing communications and PR. He completed this study in the third semester.</string>
+    <string name="tv_info_kovy4">In 2017 he won the Blogger of the Year poll. In 2021, Forbes ranked him seventh in the top 10 highest paid YouTubers in the Czech Republic with an estimated annual income of CZK 6 million.</string>
+    <string name="tv_info_kovy5">Kovy has published 2 books. The first is called Of course, the second is called iPohádka. In the first book he admitted to being gay.</string>
+    <string name="tv_info_kovy6">In 2019, he performed in the 10th season of the TV dance competition StarDance …when the stars dance, where he dropped out in the semi-finals. He placed 4th overall. He danced together with Veronika Liskova.</string>
+    <string name="tv_info_kovy7">Kovy currently has four YouTube channels. Call Me Charlie - 56k subscribers \n4. Best Moments - 13.6k subscribers</string>
+    <string name="tv_info_kovy8">His most watched video to date is a parody of the song Despacito, which has exceeded 12 million views.</string>
+    <string name="tv_info_kovy9">Kovy is very involved in politics, environmentalism, equality and education. In 2020, for example, he had a documentary Kovy Solves History on the TV station CT2.</string>
+    <string name="tv_info_kovy10">Kovy\'s Instagram profile (kovy_gameballcz) has more than 776,000 followers and contains more than 1,090 posts</string>
+
+    <!-- Catchphrases MenT -->
+    <string name="tv_catchphrases_ment1">greeting</string>
+    <string name="tv_catchphrases_ment2">I\'m sure</string>
+    <string name="tv_catchphrases_ment3">stupid cow</string>
+    <string name="tv_catchphrases_ment4">Leave me alone, don\'t yell at me</string>
+    <string name="tv_catchphrases_ment5">The kid just asked how babies are made</string>
+    <string name="tv_catchphrases_ment6">I have a lisp and a coughing fit. You\'ve got to be kidding me</string>
+    <string name="tv_catchphrases_ment7">who can\'t, can\'t</string>
+    <string name="tv_catchphrases_ment8">and life is life</string>
+    <string name="tv_catchphrases_ment9">this is perfect OMG I want to go home</string>
+    <string name="tv_catchphrases_ment10">easy, easy as two cheesy</string>
+    <string name="tv_catchphrases_ment11">someone else pit himself in it</string>
+    <string name="tv_catchphrases_ment12">jeez marya that\'s not possible that\'s not possible</string>
+    <string name="tv_catchphrases_ment13">yeeeeees baaabyyyy</string>
+
+    <!-- Catchphrases GEJMR -->
+    <string name="tv_catchphrases_gejmr1">good sir</string>
+    <string name="tv_catchphrases_gejmr2">I want that burger</string>
+    <string name="tv_catchphrases_gejmr3">I don\'t want to interrupt</string>
+    <string name="tv_catchphrases_gejmr4">whoa, I\'m with you again</string>
+    <string name="tv_catchphrases_gejmr5">Bro, I\'m here too</string>
+    <string name="tv_catchphrases_gejmr6">chno, chno, chno</string>
+    <string name="tv_catchphrases_gejmr7">its a prank aha</string>
+    <string name="tv_catchphrases_gejmr8">like really</string>
+    <string name="tv_catchphrases_gejmr9">I\'ll stick one on you</string>
+    <string name="tv_catchphrases_gejmr10">jeez you\'re an nerd</string>
+    <string name="tv_catchphrases_gejmr11">I won\'t speak Slovak</string>
+    <string name="tv_catchphrases_gejmr12">but don\'t be silly, sweetheart</string>
+    <string name="tv_catchphrases_gejmr13">okay more</string>
+    <string name="tv_catchphrases_gejmr14">OMG what\'s that</string>
+    <string name="tv_catchphrases_gejmr15">OMG that\'s cool</string>
+    <string name="tv_catchphrases_gejmr16">man they\'re all gonna think I\'m crazy for laughing now</string>
+    <string name="tv_catchphrases_gejmr17">now I\'m gonna pee in the fountain</string>
+    <string name="tv_catchphrases_gejmr18">rage quit</string>
+    <string name="tv_catchphrases_gejmr19">man, he killed me</string>
+    <string name="tv_catchphrases_gejmr20">laughter</string>
+
+    <!-- Catchphrases PedrosGame -->
+    <string name="tv_catchphrases_pedro1">oh yeeees</string>
+    <string name="tv_catchphrases_pedro2">that\'s a bummer, really</string>
+    <string name="tv_catchphrases_pedro3">are you kidding me</string>
+    <string name="tv_catchphrases_pedro4">you\'re such a dick</string>
+    <string name="tv_catchphrases_pedro5">he\'s gonna will bother us all</string>
+    <string name="tv_catchphrases_pedro6">come on pedro come on pedro come on</string>
+    <string name="tv_catchphrases_pedro7">we have the biggest balls</string>
+    <string name="tv_catchphrases_pedro8">not my balls</string>
+    <string name="tv_catchphrases_pedro9">guys so now I\'ve got it out here</string>
+    <string name="tv_catchphrases_pedro10">I\'ve been chasing it for half an hour</string>
+    <string name="tv_catchphrases_pedro11">laughter</string>
+    <string name="tv_catchphrases_pedro12">you\'re kidding. He killed me</string>
+    <string name="tv_catchphrases_pedro13">rage quit</string>
+
+    <!-- Catchphrases Jirka Král -->
+    <string name="tv_catchphrases_jirkakral1">greeting</string>
+    <string name="tv_catchphrases_jirkakral2">Cool, man</string>
+    <string name="tv_catchphrases_jirkakral3">jesus kriste</string>
+    <string name="tv_catchphrases_jirkakral4">you rascal</string>
+    <string name="tv_catchphrases_jirkakral5">yeah, I\'m pretty drunk, Geimr</string>
+    <string name="tv_catchphrases_jirkakral6">is it me or does the car look like a rock</string>
+    <string name="tv_catchphrases_jirkakral7">and you\'re black</string>
+    <string name="tv_catchphrases_jirkakral8">what\'s in your backpack here</string>
+    <string name="tv_catchphrases_jirkakral9">What are you doing, then no</string>
+    <string name="tv_catchphrases_jirkakral10">I don\'t see where I\'m going</string>
+    <string name="tv_catchphrases_jirkakral11">I almost peed myself now</string>
+    <string name="tv_catchphrases_jirkakral12">rage quit</string>
+    <string name="tv_catchphrases_jirkakral13">man, you\'re kidding me</string>
+
+    <!-- Catchphrases HouseBox -->
+    <string name="tv_catchphrases_house1">greeting</string>
+    <string name="tv_catchphrases_house2">wedre you son of a man</string>
+    <string name="tv_catchphrases_house3">look, you\'re serious about this</string>
+    <string name="tv_catchphrases_house4">I\'m baking for you sorry</string>
+    <string name="tv_catchphrases_house5">you\'re tired of being a jerk</string>
+    <string name="tv_catchphrases_house6">you man, come on</string>
+    <string name="tv_catchphrases_house7">man, how did you do that?</string>
+    <string name="tv_catchphrases_house8">that man looks really cool</string>
+    <string name="tv_catchphrases_house9">go away with your sorry</string>
+    <string name="tv_catchphrases_house10">I\'m baking for you, man</string>
+
+    <!-- Catchphrases Baxtrix -->
+    <string name="tv_catchphrases_bax1">not where you\'re rolling</string>
+    <string name="tv_catchphrases_bax2">Jesus, what are you looking at me for</string>
+    <string name="tv_catchphrases_bax3">you\'re such a man</string>
+    <string name="tv_catchphrases_bax4">ohh you\'re such an nerd</string>
+    <string name="tv_catchphrases_bax5">I\'m a ball, not a cone</string>
+    <string name="tv_catchphrases_bax6">unfireable</string>
+    <string name="tv_catchphrases_bax7">Mr. Teacher, I have a problem here</string>
+    <string name="tv_catchphrases_bax8">Yeah, finally, I\'m on it, people</string>
+    <string name="tv_catchphrases_bax9">where\'s my pentaban</string>
+    <string name="tv_catchphrases_bax10">No way, buddy</string>
+    <string name="tv_catchphrases_bax11">oh my god someone wants a permaban here</string>
+    <string name="tv_catchphrases_bax12">do man</string>
+    <string name="tv_catchphrases_bax13">you see this crap right here</string>
+
+</resources>
