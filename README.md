@@ -20,4 +20,4 @@ Don't hesitate to download our app!
 </div>
 
 ## More information
-More information can be found on our website -> https://phstudio2.webnode.com/notification-maker
+More information can be found on our website -> https://phstudio2.webnode.com/youtubers
